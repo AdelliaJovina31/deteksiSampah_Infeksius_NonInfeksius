@@ -1,0 +1,39 @@
+body {
+    background-color: #ffffff;
+}
+
+/* Header */
+.hero {
+    background-color: #4E8A16;
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.main-content {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.camera-icon {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px auto;
+}
+
+.btn-detect {
+    background-color: #73CA22;
+    color: white;
+    padding: 10px 35px;
+    border-radius: 8px;
+    border: none;
+    font-weight: 600;
+    box-shadow: 3px 4px 8.9px rgba(0,0,0,0.25);
+}
+
+.btn-detect:hover {
+    background-color: #578b2e !important;
+}
